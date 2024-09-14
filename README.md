@@ -12,6 +12,7 @@ Legal Force [Trademarkia]
 2. FAISS for efficient similarity search.
 3. Sentence Transformers to create embeddings for the documents and queries.
 4. PostgreSQL
+5. Redis for caching context
 
 <img width="517" alt="image" src="https://github.com/user-attachments/assets/ac8b1a0f-1b29-4e9b-8ac5-350c610d2ad6">
 
