@@ -15,3 +15,11 @@ Legal Force [Trademarkia]
 
 Context generated should be concise as context length for LLMs can be less. Every LLM has its own context window length. 
 ![image](https://github.com/user-attachments/assets/1dae3cf2-8119-4a8f-978a-7d7b984808c3)
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/e080f52f-c9e0-4f03-9bcd-487823d81e31">
+
+👆Response body gives context, top 3 documents, inference time and number of requests from the respective user.
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/d8adaba2-a0bd-4b80-9d74-6b8456b1ab7a">
+
+👆 After number of requests exceeded 
