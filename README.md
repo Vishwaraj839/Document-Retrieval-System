@@ -13,9 +13,7 @@ Legal Force [Trademarkia]
 3. Sentence Transformers to create embeddings for the documents and queries.
 4. PostgreSQL
 
-![Reference of image - https://qa.fastforwardlabs.com/methods/background/2020/04/28/Intro-to-QA.html
-](img width="517" alt="image" src="https://github.com/user-attachments/assets/ac8b1a0f-1b29-4e9b-8ac5-350c610d2ad6")
-
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/ac8b1a0f-1b29-4e9b-8ac5-350c610d2ad6">
 Reference of image - https://qa.fastforwardlabs.com/methods/background/2020/04/28/Intro-to-QA.html
 
 Context generated should be concise as context length for LLMs can be less. Every LLM has its own context window length. 
