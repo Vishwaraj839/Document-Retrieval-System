@@ -23,3 +23,7 @@ Context generated should be concise as context length for LLMs can be less. Ever
 <img width="670" alt="image" src="https://github.com/user-attachments/assets/d8adaba2-a0bd-4b80-9d74-6b8456b1ab7a">
 
 👆 After number of requests exceeded 
+
+
+
+This Medium Article helped me to download and run redis on windows -> https://naveenrenji.medium.com/install-redis-on-windows-b80880dc2a36 ✨
