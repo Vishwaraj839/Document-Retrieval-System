@@ -14,7 +14,10 @@ Legal Force [Trademarkia]
 4. PostgreSQL
 
 <img width="517" alt="image" src="https://github.com/user-attachments/assets/ac8b1a0f-1b29-4e9b-8ac5-350c610d2ad6">
+
 Reference of image - https://qa.fastforwardlabs.com/methods/background/2020/04/28/Intro-to-QA.html
+
+
 
 Context generated should be concise as context length for LLMs can be less. Every LLM has its own context window length. 
 ![image](https://github.com/user-attachments/assets/1dae3cf2-8119-4a8f-978a-7d7b984808c3)
