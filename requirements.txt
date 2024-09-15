@@ -1,0 +1,9 @@
+fastapi==0.95.0
+uvicorn==0.20.0
+psycopg2-binary==2.9.6  # PostgreSQL driver for Python
+redis==4.5.5  # Redis client for caching
+sqlalchemy==2.0.19  # ORM for PostgreSQL
+pydantic==1.10.7  # Data validation library used by FastAPI
+sentence-transformers==2.2.2  # For text embeddings and document similarity
+faiss-cpu==1.7.3  # FAISS for efficient similarity search
+python-dotenv==1.0.0  # If you want to load environment variables
